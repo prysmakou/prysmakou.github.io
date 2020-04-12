@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Let's Rock!"
+date:   2020-04-12 14:40:19 +0100
+categories: update
+---
+During corona days at home I got some extra time i spent for creating this site and learning new things.
+
+TIL:
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/) (some aspects)
+- [Github Pages](https://pages.github.com)
+- [Jekill](https://jekyllrb.com) for GitHub Pages 
