@@ -10,3 +10,5 @@ TIL:
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/) (some aspects)
 - [Github Pages](https://pages.github.com)
 - [Jekill](https://jekyllrb.com) for GitHub Pages
+
+This day in history: [Cosmonautics Day!](https://en.wikipedia.org/wiki/Cosmonautics_Day)
