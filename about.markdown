@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 A dynamic, quality-focused leader, systems and clouds security engineer and principal architect with years of consulting and hands-on experience. 
-Serving as a TechOps engineer for PMI, focusing on cloud technologies.
+Serving as a Lead Platform engineer for EPAM, focusing on cloud/container technologies.
 
 HA deployment, monitoring and logs aggregation.
 Deployment of services on top of AWS.
