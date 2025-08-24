@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aliaksandr Prysmakou - AI/Cloud Engineering
+title: Aliaksandr Prysmakou
 email: prysmak@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Aliaksandr Prysmakou - Lead Systems Engineer
+  Aliaksandr Prysmakou - AI Infrastructure: GPU clusters, Kubernetes, AWS, Terraform, Helm, ArgoCD
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://prysmakou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: prysmakou
